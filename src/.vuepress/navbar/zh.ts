@@ -8,5 +8,5 @@ export const zhNavbar = navbar([
   { text: "依赖导航", icon: "discover", link: "/deb" },
   { text: "Playground", icon: "back-stage", link: "/play" },
   { text: "参考手册", icon: "article", link: "https://go.dev/ref/spec" },
-  { text: "关于作者", icon: "alias", link: "/about" },
+  { text: "关于", icon: "alias", link: "/about" },
 ]);

@@ -1,6 +1,6 @@
 # Golang 中文学习文档
 
-本项目 fork 自: [Open Source CQUT/Golang-Doc](https://github.com/Open-Source-CQUT/Golang-Doc) ，感谢原项目的成果，本人在其基础上增加了部分自己认为需要添加的知识点。
+本项目 fork 自: [Open Source CQUT/Golang-Doc](https://github.com/Open-Source-CQUT/Golang-Doc) ，感谢原项目的成果，本人在其基础上增加了部分自己在学习过程中认为需要注意的知识点。
 
 ## 开发
 
