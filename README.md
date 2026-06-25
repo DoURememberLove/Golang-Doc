@@ -1,8 +1,6 @@
 # Golang 中文学习文档
 
-这是一个简单纯粹且完全开源的 Golang 中文学习文档，网站内容是作者在学习过程中的记录，每一篇文章的更新都是新的积累，主要包括 go 语言基础方面的东西，适合入门玩家浏览。
-
-由于作者水平十分有限，如果在文中有发现任何纰漏或者想自己发布文章，欢迎提交 issue 和 PR，有时间看到了会尽快审理。
+本项目 fork 自: [Open Source CQUT/Golang-Doc](https://github.com/Open-Source-CQUT/Golang-Doc) ，感谢原项目的成果，本人在其基础上增加了部分自己认为需要添加的知识点。
 
 ## 开发
 
@@ -48,15 +46,3 @@ pnpm docs:clean-dev
 ```bash
 pnpm docs:build
 ```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Open-Source-CQUT/Golang-Doc&type=Timeline)](https://star-history.com/#Open-Source-CQUT/Golang-Doc&Timeline)
-
-## 贡献
-
-1. fork 本仓库
-2. 创建一个你自己的特色分支
-3. 提交新修改
-4. 向本仓库提交 PR
-5. 等待 merge
