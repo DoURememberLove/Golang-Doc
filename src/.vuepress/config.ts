@@ -3,7 +3,7 @@ import {defineUserConfig} from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-    base: "/",
+    base: "/Golang-Doc/",
     lang: "zh-CN",
     title: "Golang 中文学习文档",
     description: "Go 爱好者驱动的中文学习文档",
