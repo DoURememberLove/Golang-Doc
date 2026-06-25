@@ -17,7 +17,7 @@ export default hopeTheme({
   // logo
   logo: "/logo.png",
   // 仓库
-  repo: "Open-Source-CQUT/Golang-Doc",
+  repo: "https://github.com/DoURememberLove/Golang-Doc",
   // 版权
   copyright: "MIT Licensed | Copyright © 2021-present 寒江",
   // 仓库中的文件夹
