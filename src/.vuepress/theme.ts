@@ -15,7 +15,7 @@ export default hopeTheme({
   // 仓库
   repo: "https://github.com/DoURememberLove/Golang-Doc",
   // 版权
-  copyright: "MIT Licensed | Copyright © 2021-present 寒江",
+  copyright: "MIT Licensed | Copyright © 2026-present DoURememberLove",
   // 仓库中的文件夹
   docsDir: "/src",
   // 导航栏
