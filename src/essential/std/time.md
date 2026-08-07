@@ -33,7 +33,7 @@ func (t *Time) setLoc(loc *Location) //设置地区
 
 func (t *Time) stripMono() //去掉时间的单调时钟读数
 
-func (t Time) After(u Time) //判断一个时间是否在它之后
+func (t Time) After(u Time) bool //判断一个时间是否在它之后
 
 func (t Time) Before(u Time) bool //判断一个时间是否在它之前
 
